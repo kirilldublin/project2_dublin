@@ -70,7 +70,7 @@ poetry run database
 ## Демонстрация (asciinema)
 
 
-![Демо работы](docs/demo.gif)
+![Демо работы](demo.gif)
 
 
 Рекомендуемый сценарий:
