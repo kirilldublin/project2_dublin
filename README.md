@@ -69,9 +69,9 @@ poetry run database
 
 ## Демонстрация (asciinema)
 
-```markdown
+
 ![Демо работы](docs/demo.gif)
-```
+
 
 Рекомендуемый сценарий:
 
