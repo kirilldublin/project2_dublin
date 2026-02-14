@@ -69,10 +69,8 @@ poetry run database
 
 ## Демонстрация (asciinema)
 
-После записи вставьте embed-ссылку:
-
 ```markdown
-[![asciicast](https://asciinema.org/a/<CAST_ID>.svg)](https://asciinema.org/a/<CAST_ID>)
+![Демо работы](docs/demo.gif)
 ```
 
 Рекомендуемый сценарий:
